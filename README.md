@@ -14,8 +14,10 @@ Copy `env.example` to `.env`
 
 ```ini
 # .env
-GITHUB_TOKEN=ghp_2goxd8c5495c04b3e9dcb008a7d79ab6f0e8
+GITHUB_TOKEN=ghp__the_rest_of_your_token__
 GITHUB_USER=toggenation
+YEAR=2023
+FULL_NAME="James McDonald"
 ```
 
 

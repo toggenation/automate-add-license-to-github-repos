@@ -11,6 +11,8 @@ Clone this repo
 
 Copy `env.example` to `.env`
 
+Goto (https://github.com/settings/tokens)[https://github.com/settings/tokens] and while logged in as your github user create a Personal Access Token and update `.env` with your github username and PAT.
+
 
 ```ini
 # .env
